@@ -8,7 +8,7 @@ min_key = ""
 name_hash.each do |a,cost|
 #   if cost < min_num
 # min_num = cost && min_key = a
-  end
+  # end
 end
 puts min_key
 end
