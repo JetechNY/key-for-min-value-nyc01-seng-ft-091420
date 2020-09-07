@@ -11,5 +11,5 @@ min_num = cost
 min_key = a
   end
 end
-puts min_key
+min_key
 end
