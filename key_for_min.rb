@@ -10,5 +10,5 @@ name_hash.each do |a,b|
 min_num = b && min_key = a
   end
 end
-min_key
+puts min_key
 end
