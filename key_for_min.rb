@@ -10,6 +10,6 @@ name_hash.each do |key,value|
 min_num = value && min_key = key
   end
 end
-min_key
+
 end
 min_key
