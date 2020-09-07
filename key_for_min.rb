@@ -12,4 +12,5 @@ min_key = a
   end
 end
 min_key
+puts min_key
 end
